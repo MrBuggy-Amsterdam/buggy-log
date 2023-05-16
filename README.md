@@ -16,7 +16,7 @@ As you would expect from a logging utility. By default, debug level prints are h
 package main
 
 import (
-    github.com/MrBuggy-Amsterdam/buggy-log/
+    log "github.com/MrBuggy-Amsterdam/buggy-log/"
 )
 
 func main() {
